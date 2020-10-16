@@ -1,0 +1,9 @@
+{
+  "name": "test-demo",
+  "version": "1.0.0",
+  "description": "test-demo",
+  "main": "index.js",
+  "repository": "https://github.com/wanzhongling/test-demo.git",
+  "author": "zhongling.wan <zhongling.wan@dianping.com>",
+  "license": "MIT"
+}
